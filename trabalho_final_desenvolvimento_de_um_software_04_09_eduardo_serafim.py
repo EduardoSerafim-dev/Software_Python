@@ -13,6 +13,7 @@ def f1_matematica():
   print('                        __________Operações simples___________ ')
   print ('\n')
   print ('1 - Soma')
+  print ('1 - Teste')
   print ('2 - Subtração')
   print ('3 - Multiplicação')
   print ('4 - Divisão')
