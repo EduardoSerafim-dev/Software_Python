@@ -67,13 +67,13 @@ Para executar o programa no computador, é necessário ter o Python 3 instalado.
 3. Execute o arquivo Python pelo terminal:
 
    ```bash
-   python nome_do_arquivo.py
+   python Programa_Python.py
    ```
 
    Em alguns sistemas, pode ser necessário utilizar:
 
    ```bash
-   python3 nome_do_arquivo.py
+   python3 Programa_Python.py
    ```
 
 ## Como utilizar
